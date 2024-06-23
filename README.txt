@@ -16,9 +16,11 @@ COMMENTS:
 * The programming language used is MATLAB, and the program was developed under a student license (#41131103);
 * The source code for the area of the Direct-Fusion Drive is not available, but the reader can introduce different
   geometrical setups and the code should adapt appropriately. Moreover, the original area data is present 
-  within 'DFD_Area.txt'.
+  within 'DFD_Area.txt';
 * The theoretical modelling and basis for this code can be found in the associated M.Sc. thesis:
-  [To be announced].
+  [To be announced];
+* A sample post-processing code is adjoint to the Github repository capable of taking the data from multiple tests
+  and superimposing it for analysis purposes.
 
 ALGORITHM DESCRIPTION:
 
