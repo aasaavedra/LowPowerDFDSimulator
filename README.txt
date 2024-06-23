@@ -6,8 +6,8 @@ https://github.com/aasaavedra .
 
 ACKNOWLEDGEMENTS:
 * Dr. Eduardo Ahedo Galilea, Department of Aerospace Engineering (UC3M) - Assistance with Plasma Modeling
-* Dr. Raúl Sánchez, Department of Engineering Physics (UC3M) - Assistance with Numerical Methods
-* Dr. Davide Poli, Department of Aerospace Engineering (UC3M) - Assistance with Numerical Instabilities
+* Dr. Luis Raúl Sánchez Fernández, Department of Engineering Physics (UC3M) - Assistance with Numerical Methods
+* Davide Poli, Department of Aerospace Engineering (UC3M) - Assistance with Numerical Instabilities
 
 COMMENTS:
 * This code is provided as-is and may have several areas for improvement;
